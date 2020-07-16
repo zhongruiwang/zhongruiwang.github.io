@@ -3489,7 +3489,7 @@ input, select, textarea {
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
-			text-align: right;
+			text-align: justify;
 			vertical-align: middle;
 			z-index: 1;
 		}
@@ -3497,6 +3497,7 @@ input, select, textarea {
 			#banner .content header {
 				display: inline-block;
 				vertical-align: middle;
+				text-align: justify;
 			}
 
 				#banner .content header h2 {
